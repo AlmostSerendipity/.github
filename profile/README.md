@@ -1,6 +1,6 @@
 # Almost Serendipity
 
-![Almost Serendipity Logo](profile/AlmostSerendipityTree.png) 
+![Almost Serendipity Logo](profile/Tree.png) 
 
 > A modern, collaborative hub for tech enthusiasts, uniting expertise and innovation in a trusted community space.
 
