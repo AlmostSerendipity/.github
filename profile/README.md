@@ -7,10 +7,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation & Setup](#installation--setup)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact & Support](#contact--support)
 
 ## Overview
 
